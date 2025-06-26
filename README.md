@@ -21,7 +21,7 @@ To analyze Sephora's product data and uncover which products and categories offe
 ![Image](https://github.com/user-attachments/assets/99031113-9486-487f-af95-ce4d205783cb)
 
  *Insight:*  
-> Interestingly, products with a *lower best value score* (i.e., fair pricing without major discounts) still tend to receive *higher customer ratings*. This suggests that *product quality and satisfaction may matter more than discount size alone*.
+ Interestingly, products with a *lower best value score* (i.e., fair pricing without major discounts) still tend to receive *higher customer ratings*. This suggests that *product quality and satisfaction may matter more than discount size alone*.
 
 ---
 
@@ -30,7 +30,7 @@ To analyze Sephora's product data and uncover which products and categories offe
 ![Image](https://github.com/user-attachments/assets/cc08a803-01a9-4bb7-8fe8-3c5a48cdb6b8)
 
  *Insight:*  
-> *The Art of Shaving* appears to have the highest customer ratings, followed closely by *Carolina Herrera* and *Better Not Younger*. These brands demonstrate strong customer satisfaction even without being the most reviewed.
+ *The Art of Shaving* appears to have the highest customer ratings, followed closely by *Carolina Herrera* and *Better Not Younger*. These brands demonstrate strong customer satisfaction even without being the most reviewed.
 
 📌 *Business Context:*  
 - These brands may be strong candidates for *"Top Rated Picks"* sections or promotional campaigns based on quality-focused appeal.
@@ -42,7 +42,7 @@ To analyze Sephora's product data and uncover which products and categories offe
 ![Image](https://github.com/user-attachments/assets/877cc985-11ac-4374-b61a-a01620745c2f)
 
  *Insight:*  
-> Brands like *Sephora Collection*, *Rare Beauty*, and *Tarte* lead in *total review count*, suggesting broad customer engagement and visibility.
+ Brands like *Sephora Collection*, *Rare Beauty*, and *Tarte* lead in *total review count*, suggesting broad customer engagement and visibility.
 
 📌 *Business Context:*  
 - These high-visibility brands could be considered for *homepage placement*, *brand partnerships*, or customer loyalty initiatives.
@@ -54,7 +54,7 @@ To analyze Sephora's product data and uncover which products and categories offe
 ![Image](https://github.com/user-attachments/assets/45ec95f5-4db7-412c-a353-8100b96c39e2)
 
  *Insight:*  
-> Categories such as *Curls & Coils*, *Value & Gift Sets*, and *Eye Sets* reflect a higher average best_value_score, indicating these categories tend to offer greater perceived value.
+ Categories such as *Curls & Coils*, *Value & Gift Sets*, and *Eye Sets* reflect a higher average best_value_score, indicating these categories tend to offer greater perceived value.
 
 📌 *Business Context:*  
 - These categories may benefit from additional promotion in *"Best Value Deals"* or *holiday campaigns*, given their perceived savings potential.
@@ -65,7 +65,7 @@ To analyze Sephora's product data and uncover which products and categories offe
 
 ![Image](https://github.com/user-attachments/assets/c04ade4f-b69f-4565-a3c4-8ccfeedcee16) 
 *Insight:*  
-> The majority of products cluster around a best value score of *1.0*, indicating that most products are priced close to their perceived value. A smaller set of products offers higher scores, often bundles or special sets that offer more for less.
+ The majority of products cluster around a best value score of *1.0*, indicating that most products are priced close to their perceived value. A smaller set of products offers higher scores, often bundles or special sets that offer more for less.
 
 📌 *Business Context:*  
 - Products with high best value scores might be effective candidates for *value-driven campaigns* or featured in *budget-friendly filters*.
