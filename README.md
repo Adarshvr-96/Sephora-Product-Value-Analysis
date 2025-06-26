@@ -45,13 +45,13 @@ To analyze Sephora's product data and uncover which products and categories offe
 > Brands like *Sephora Collection*, *Rare Beauty*, and *Tarte* lead in *total review count*, suggesting broad customer engagement and visibility.
 
 📌 *Business Context:*  
-- These high-visibility brands could be considered for *homepage placement, **brand partnerships*, or customer loyalty initiatives.
+- These high-visibility brands could be considered for *homepage placement*, *brand partnerships*, or customer loyalty initiatives.
 
 ---
 
 ## Average Best Value Score by Category
 
-![Image](https://github.com/user-attachments/assets/1743e044-af4a-4fde-822b-c091e45a8016)
+![Image](https://github.com/user-attachments/assets/45ec95f5-4db7-412c-a353-8100b96c39e2)
 
  *Insight:*  
 > Categories such as *Curls & Coils*, *Value & Gift Sets*, and *Eye Sets* reflect a higher average best_value_score, indicating these categories tend to offer greater perceived value.
@@ -63,8 +63,8 @@ To analyze Sephora's product data and uncover which products and categories offe
 
 ##  Distribution of Best Value Score
 
-![Image](https://github.com/user-attachments/assets/45ec95f5-4db7-412c-a353-8100b96c39e2)
- *Insight:*  
+![Image](https://github.com/user-attachments/assets/c04ade4f-b69f-4565-a3c4-8ccfeedcee16) 
+*Insight:*  
 > The majority of products cluster around a best value score of *1.0*, indicating that most products are priced close to their perceived value. A smaller set of products offers higher scores, often bundles or special sets that offer more for less.
 
 📌 *Business Context:*  
