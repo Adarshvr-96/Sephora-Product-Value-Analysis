@@ -83,8 +83,7 @@ To analyze Sephora's product data and uncover which products and categories offe
 ## 📌 About This Project
 This analysis was done using *Python (Pandas, Seaborn, Matplotlib)* in Jupyter Notebook. It's part of my *data analyst portfolio*, showcasing how I turn raw data into strategic insights for business and product decisions.
 
-> ✨ If you're a recruiter, hiring manager, or just someone who loves data — I hope you enjoyed reading this! Let's connect on LinkedIn or GitHub to chat more about data storytelling and analytics.
+>If you're a recruiter, hiring manager, or just someone who loves data — I hope you enjoyed reading this! Let's connect on LinkedIn or GitHub to chat more about data storytelling and analytics.
 
 ---
 
-Thanks for stopping by! 🙌
